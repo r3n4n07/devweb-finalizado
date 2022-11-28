@@ -1,6 +1,6 @@
 ## Atividade 3 - Trabalho Backend
 
-Desenvolvemos um site chamado **New Games** que notícia e posta lançamentos de jogos.
+Desenvolvemos um site chamado **News Games** que notícia e posta lançamentos de jogos.
 
 
 
