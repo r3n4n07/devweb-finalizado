@@ -29,7 +29,7 @@ Iniciar o server do back-end
 
 
 ```bash
-  npm start
+  npm run server
 ```
 
 Abrir o outro terminal e executar a parte do front-end
